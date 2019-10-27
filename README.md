@@ -1,0 +1,1 @@
+This is a simple brick breaking game made using MDN web docs tutorial. My aim is to learn about canvas and game development.
